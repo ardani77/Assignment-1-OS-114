@@ -3,11 +3,7 @@
 ## Makefile
 Line 3 :
 ```C
-CS333_PROJECT ?= 1
-```
-Line 16 :
-```C
-CS333_UPROGS += _date
+CS333_PROJECT ?= 2
 ```
 
 ## user.h
